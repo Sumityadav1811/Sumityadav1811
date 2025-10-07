@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in both fronten
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 📈 GitHub Stats
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Sumityadav1811&show_icons=true&theme=tokyonight" alt="Sumit's GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumityadav1811&theme=tokyonight" alt="Sumit's GitHub streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumityadav1811&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+
 
 
 ## 📫 How to reach me
