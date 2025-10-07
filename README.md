@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in both fronten
 - 🌐 Frontend: React.js, Next.js
 - 🗄️ Backend: Node.js, Express.js
 - 🗃️ Databases: SQL, MongoDB
-- 🌱 Currently learning: [Add your current learning focus here!]
 - 🤝 Open to collaborating on exciting projects in web development, backend systems, or data-driven applications
 
 ## 🧰 Tech Stack
