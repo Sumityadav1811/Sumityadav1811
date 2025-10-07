@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sumit Yadav
+# Hi there 👋 I'm Sumit Kumar Yadav
 
 Welcome to my GitHub profile! I'm a passionate developer skilled in both frontend and backend technologies, always eager to learn and tackle new challenges.
 
