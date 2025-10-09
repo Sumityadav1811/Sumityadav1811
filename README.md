@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in both fronten
 - 🌐 Frontend: React.js, Next.js
 - 🗄️ Backend: Node.js, Express.js
 - 🗃️ Databases: SQL, MongoDB
-- 🤝 Open to collaborating on exciting projects in web development, backend systems, or data-driven applications
+- 🤝 Open to collaborating on exciting projects in web development, backend systems, data-driven applications
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
